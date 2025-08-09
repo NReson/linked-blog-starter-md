@@ -1,0 +1,41 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#170 работа с заявками "Не удаётся зайти в директум"</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><p class="MsoNormal">Если поступают обращения: <i>«не могу зайти в Директум,
+проверить включена ли УЗ директума»</i><o:p></o:p></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><span style="font-family: Arial, &quot;sans-serif&quot;; color: rgb(0, 0, 0);">Необходимо:</span></p><p class="MsoNormal"><span style="font-family: Arial, &quot;sans-serif&quot;; color: rgb(0, 0, 0);"><br></span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><span style="font-family: Arial, &quot;sans-serif&quot;; color: rgb(0, 0, 0);">1. Проверить
+есть ли Уз в домене. В какой группе. Результат указать в ленте заявки.</span></p><p class="MsoNormal"><span style="font-family: Arial, &quot;sans-serif&quot;; color: rgb(0, 0, 0);"><br></span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><span style="color: rgb(0, 0, 0);"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">2. Если<b> УЗ</b> в
+домене <b>активна</b>, находится <b>в </b>группе<b> </b></span><b><span lang="EN-US" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">pirogov</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-</span><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">center</span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">/</span><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">Users</span></b><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">– заявка с комментариями <i>«УЗ </i></span><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">ivanovaa</span></i><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></i><i><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">активна, не заблокирована»</span></i><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> в ленте переводится на линию
+Директума.<o:p></o:p></span></span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="white-space:pre">	</span></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1">&nbsp; &nbsp; &nbsp;Если
+УЗ активна, но заблокирована – проводится стандартная процедура по разблокировки
+УЗ и проверяется работа Директума, если УЗ активна и не заблокирована, а
+проблемы со входом в Директум сохраняются - заявка переводится на линию
+Директума.<o:p></o:p></p><p class="MsoNormal"><span style="font-family: Arial, &quot;sans-serif&quot;; color: rgb(0, 0, 0);"><br></span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><span style="font-family: Arial, &quot;sans-serif&quot;; color: rgb(0, 0, 0);">3. Если иное:</span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><span style="color: rgb(0, 0, 0);"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">- если <b>УЗ не
+существует </b>– заявка с комментариями <i>«УЗ </i></span><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">ivanovaa</span></i><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></i><i><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">не существует»</span></i><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> в ленте переводится на линию ИБ<o:p></o:p></span></span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><span style="color: rgb(0, 0, 0);"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">- если <b>УЗ</b>
+находится в <b>папке </b></span><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-ansi-language:EN-US"><b>dismiss</b></span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><b>
+</b>- – заявка с комментариями <i>«УЗ </i></span><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">ivanovaa</span></i><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></i><i><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">в папке </span></i><i><span lang="EN-US" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ansi-language:EN-US">dismiss</span></i><i><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">»</span></i><span style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"> в ленте переводится на линию ИБ<o:p></o:p></span></span></p><p></p><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"></p><p class="MsoNormal"><o:p style="color: rgb(0, 0, 0);">&nbsp;</o:p></p><p></p></blockquote><p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  [УДАЛЕН] Курманаева Альфия Вильевна</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  23.08.2024 16:58</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи > Директум</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Помощь в работе</div></body></html>

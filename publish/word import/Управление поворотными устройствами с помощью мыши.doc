@@ -1,0 +1,458 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#122 Управление поворотными устройствами с помощью мыши</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;">
+<DIV id=main-header 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: -10px 0px 20px; TOP: 40px; PADDING-RIGHT: 0px">
+<DIV id=title-heading class="pagetitle with-breadcrumbs" 
+style="COLOR: rgb(23,43,77); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<H1 id=title-text class=with-breadcrumbs 
+style="FONT-SIZE: 28px; TEXT-TRANSFORM: none; FONT-WEIGHT: 500; COLOR: rgb(23,43,77); PADDING-BOTTOM: 0px; PADDING-TOP: 5px; PADDING-LEFT: 0px; CLEAR: left; MARGIN: 0px; DISPLAY: block; LETTER-SPACING: -0.01em; LINE-HEIGHT: 1.25; PADDING-RIGHT: 0px">Управление 
+поворотным устройством видеокамеры может выполняться с помощью мыши в Окне 
+видеонаблюдения, соответствующем данной видеокамере.</H1></DIV></DIV>
+<DIV id=content class="page view" 
+style="BOX-SIZING: border-box; POSITION: static !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; CLEAR: none !important; MARGIN: 0px; PADDING-RIGHT: 20px">
+<DIV id=main-content class=wiki-content 
+style='FONT-SIZE: 14px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(23,43,77); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>
+<DIV 
+class="confluence-information-macro confluence-information-macro-information conf-macro output-block" 
+style="BORDER-TOP: rgb(170,184,198) 1px solid; BORDER-RIGHT: rgb(170,184,198) 1px solid; BACKGROUND: rgb(252,252,252); BORDER-BOTTOM: rgb(170,184,198) 1px solid; POSITION: relative; COLOR: rgb(51,51,51); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 36px; MIN-HEIGHT: 20px; BORDER-LEFT: rgb(170,184,198) 1px solid; MARGIN: 10px 0px 1em; PADDING-RIGHT: 10px; border-radius: 5px" 
+data-macro-name="info" data-hasbody="true">
+<P class=title 
+style="FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Примечание.</P><SPAN 
+class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon" 
+style='FONT-SIZE: 0px; TEXT-DECORATION: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: text-bottom; BACKGROUND-REPEAT: no-repeat; BORDER-BOTTOM: medium none; POSITION: absolute; BACKGROUND-POSITION: 0px 0px; COLOR: rgb(74,103,133); PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 10px; BORDER-LEFT: medium none; MARGIN: 0px; DISPLAY: block; LINE-HEIGHT: 20px; TOP: 12px; PADDING-RIGHT: 0px; --aui-icon-size: 16px; --aui-icon-font: "Adgs Icons"'></SPAN>
+<DIV class=confluence-information-macro-body 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<P 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Для 
+управления поворотным устройством с помощью мыши требуется сделать активным Окно 
+управления телеметрией. Для активирования Окна управления телеметрией необходимо 
+щелкнуть по нему левой кнопкой мыши.</P></DIV></DIV>
+<P 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px"><SPAN 
+class="confluence-embedded-file-wrapper confluence-embedded-manual-size" 
+style="MAX-WIDTH: none; POSITION: relative; DISPLAY: inline-block"><IMG 
+class=confluence-embedded-image 
+style="CURSOR: move; MAX-WIDTH: none; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px 2px; DISPLAY: block; PADDING-RIGHT: 0px" 
+src="https://docs.itvgroup.ru/confluence/download/attachments/136938028/1.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+width=500 data-linked-resource-container-version="9" 
+data-linked-resource-container-id="136938028" 
+data-linked-resource-content-type="image/jpeg" 
+data-base-url="https://docs.itvgroup.ru/confluence" 
+data-linked-resource-default-alias="1.jpg" 
+data-linked-resource-type="attachment" data-linked-resource-version="1" 
+data-linked-resource-id="137200424" data-unresolved-comment-count="0" 
+data-image-src="/confluence/download/attachments/136938028/1.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+draggable="false"></SPAN></P>
+<P 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">В 
+Окне видеонаблюдения, соответствующем поворотной камере, присутствует значок, 
+предназначенный для включения и отключения возможности управления телеметрией 
+данной камеры с помощью мыши. Функции управления телеметрией при помощи мыши 
+доступны только в случае, если для камеры включено управление телеметрией, т.е. 
+значок имеет вид<SPAN>&nbsp;</SPAN><SPAN class=confluence-embedded-file-wrapper 
+style="MAX-WIDTH: 100%; POSITION: relative; DISPLAY: inline-block"><IMG 
+class=confluence-embedded-image 
+style="CURSOR: move; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px 2px; DISPLAY: block; PADDING-RIGHT: 0px" 
+src="https://docs.itvgroup.ru/confluence/download/attachments/136938028/2.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+data-linked-resource-container-version="9" 
+data-linked-resource-container-id="136938028" 
+data-linked-resource-content-type="image/jpeg" 
+data-base-url="https://docs.itvgroup.ru/confluence" 
+data-linked-resource-default-alias="2.jpg" 
+data-linked-resource-type="attachment" data-linked-resource-version="1" 
+data-linked-resource-id="137200426" data-unresolved-comment-count="0" 
+data-image-src="/confluence/download/attachments/136938028/2.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+draggable="false"></SPAN>. Если значок имеет вид<SPAN>&nbsp;</SPAN><SPAN 
+class=confluence-embedded-file-wrapper 
+style="MAX-WIDTH: 100%; POSITION: relative; DISPLAY: inline-block"><IMG 
+class=confluence-embedded-image 
+style="CURSOR: move; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px 2px; DISPLAY: block; PADDING-RIGHT: 0px" 
+src="https://docs.itvgroup.ru/confluence/download/attachments/136938028/3.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+data-linked-resource-container-version="9" 
+data-linked-resource-container-id="136938028" 
+data-linked-resource-content-type="image/jpeg" 
+data-base-url="https://docs.itvgroup.ru/confluence" 
+data-linked-resource-default-alias="3.jpg" 
+data-linked-resource-type="attachment" data-linked-resource-version="1" 
+data-linked-resource-id="137200425" data-unresolved-comment-count="0" 
+data-image-src="/confluence/download/attachments/136938028/3.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+draggable="false"></SPAN>, использование функций управления телеметрией при 
+помощи мыши невозможно. Включение и отключение возможности управления 
+телеметрией с помощью мыши производится щелчком левой кнопкой мыши по данному 
+значку, а также при помощи сочетания горячих клавиш Ctrl+L.</P>
+<DIV 
+class="confluence-information-macro confluence-information-macro-note conf-macro output-block" 
+style="BORDER-TOP: rgb(255,234,174) 1px solid; BORDER-RIGHT: rgb(255,234,174) 1px solid; BACKGROUND: rgb(255,253,246); BORDER-BOTTOM: rgb(255,234,174) 1px solid; POSITION: relative; COLOR: rgb(51,51,51); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 36px; MIN-HEIGHT: 20px; BORDER-LEFT: rgb(255,234,174) 1px solid; MARGIN: 10px 0px 1em; PADDING-RIGHT: 10px; border-radius: 5px" 
+data-macro-name="note" data-hasbody="true">
+<P class=title 
+style="FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Внимание!</P><SPAN 
+class="aui-icon aui-icon-small aui-iconfont-warning confluence-information-macro-icon" 
+style='FONT-SIZE: 0px; TEXT-DECORATION: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: text-bottom; BACKGROUND-REPEAT: no-repeat; BORDER-BOTTOM: medium none; POSITION: absolute; BACKGROUND-POSITION: 0px 0px; COLOR: rgb(89,67,0); PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 10px; BORDER-LEFT: medium none; MARGIN: 0px; DISPLAY: block; LINE-HEIGHT: 20px; TOP: 12px; PADDING-RIGHT: 0px; --aui-icon-size: 16px; --aui-icon-font: "Adgs Icons"'></SPAN>
+<DIV class=confluence-information-macro-body 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<P 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Когда 
+поворотная камера находится в состоянии цифрового зума, значок включения 
+управления телеметрий исчезает, и управление телеметрией заблокировано. В 
+частности, если выйти из режима просмотра архива в состоянии цифрового зума, 
+управление поворотной камерой будет недоступно. Для возобновления работы функций 
+управления телеметрией требуется, чтобы цифровой зум был 
+нулевым.</P></DIV></DIV>
+<P 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">Функции 
+управления поворотным устройством с помощью мыши, заданные по умолчанию, описаны 
+в таблице.</P>
+<P 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">Начиная 
+с версии 4.9.5, в 
+ПК<SPAN>&nbsp;</SPAN><EM>Интеллект</EM><SPAN>&nbsp;</SPAN>изменился механизм 
+управления телеметрией. Новые функции управления используются по умолчанию и 
+описаны в столбце<SPAN>&nbsp;</SPAN><STRONG>Новая функция</STRONG>.</P>
+<DIV 
+class="confluence-information-macro confluence-information-macro-information conf-macro output-block" 
+style="BORDER-TOP: rgb(170,184,198) 1px solid; BORDER-RIGHT: rgb(170,184,198) 1px solid; BACKGROUND: rgb(252,252,252); BORDER-BOTTOM: rgb(170,184,198) 1px solid; POSITION: relative; COLOR: rgb(51,51,51); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 36px; MIN-HEIGHT: 20px; BORDER-LEFT: rgb(170,184,198) 1px solid; MARGIN: 10px 0px 1em; PADDING-RIGHT: 10px; border-radius: 5px" 
+data-macro-name="info" data-hasbody="true">
+<P class=title 
+style="FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Примечание.</P><SPAN 
+class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon" 
+style='FONT-SIZE: 0px; TEXT-DECORATION: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: text-bottom; BACKGROUND-REPEAT: no-repeat; BORDER-BOTTOM: medium none; POSITION: absolute; BACKGROUND-POSITION: 0px 0px; COLOR: rgb(74,103,133); PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 10px; BORDER-LEFT: medium none; MARGIN: 0px; DISPLAY: block; LINE-HEIGHT: 20px; TOP: 12px; PADDING-RIGHT: 0px; --aui-icon-size: 16px; --aui-icon-font: "Adgs Icons"'></SPAN>
+<DIV class=confluence-information-macro-body 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Если 
+требуется использовать старые функции управления телеметрией, следует задать 
+значение 0 ключу реестра TelemetryMouseAlternative – см.<SPAN>&nbsp;</SPAN><A 
+style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136938954">Справочник 
+ключей реестра</A>.</DIV></DIV>
+<DIV class=table-wrap 
+style="OVERFLOW-X: auto; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">
+<TABLE class="wrapped confluenceTable" 
+style="BORDER-COLLAPSE: collapse; OVERFLOW-X: auto; MARGIN: 0px" resolved="">
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"><STRONG>Действие</STRONG></P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"><STRONG>Старая 
+      функция</STRONG></P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px"><STRONG>Новая 
+      функция</STRONG></TD></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Щелчок 
+      левой кнопкой мыши</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">-</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    rowSpan=2>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Изменение 
+      ориентации объектива видеокамеры в направлении курсора.</P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">Направление 
+      изменения ориентации отображается стрелкой (см. рисунок). По умолчанию 
+      отображается только половина стрелки, для изменения длины отображаемой 
+      стрелки следует использовать ключ реестра TelemetryArrowLen – 
+      см.<SPAN>&nbsp;</SPAN><A style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136938954">Справочник 
+      ключей реестра</A>.</P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">Скорость 
+      изменения ориентации зависит от удаленности курсора от центра 
+      видеоизображения, который отмечен крестом. Чем больше скорость, тем 
+      длиннее стрелка.</P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px">Изменение 
+      ориентации объектива может производиться в непрерывном и дискретном 
+      режиме.&nbsp;Если камера поддерживает непрерывный режим, он используется 
+      по умолчанию. В противном случае задействован дискретный режим, в котором 
+      изменение ориентации объектива может осуществляться в 8 направлениях: 
+      вверх, вниз, вправо, влево, вверх-влево, вверх-вправо, вниз-вправо, 
+      вниз-влево. Выключение непрерывного режима осуществляется на этапе 
+      настройки системы (см.<SPAN>&nbsp;</SPAN><A 
+      style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136937519">Руководство 
+      по установке и настройке компонентов охранной системы</A>, 
+      раздел<SPAN>&nbsp;</SPAN><A 
+      style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136937602">Настройка 
+      поворотного устройства в программном комплексе Интеллект</A>). Информация 
+      о поддержке видеокамерой данного режима приведена в документации на 
+      DriverPack (см.<SPAN>&nbsp;</SPAN><A 
+      style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/display/DDP/Documentation+Drivers+Pack">Documentation 
+      Drivers Pack</A>).</P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Нажатие 
+      и удержание левой кнопки мыши с перемещением курсора мыши</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Изменение 
+      ориентации объектива видеокамеры по направлению движения курсора 
+мыши</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Щелчок 
+      средней кнопкой мыши</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    rowSpan=2 colSpan=2>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Автоматическое 
+      изменение ориентации объектива видеокамеры на область, по которой был 
+      произведен щелчок кнопкой мыши (<SPAN>Point&amp;Click)</SPAN>. 
+      Позиционирование происходит с минимальной скоростью, которая не зависит от 
+      значения, указанного в Универсальном окне управления телеметрией. Данную 
+      скорость можно изменять в утилите tweaki.exe, однако это может повлиять на 
+      качество работы (см. документ<SPAN>&nbsp;</SPAN><A 
+      style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136938089">Руководство 
+      администратора</A>, раздел<SPAN>&nbsp;</SPAN><A 
+      style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136938713">Панель 
+      настройки раздела Телеметрия</A>).</P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px"><EM><STRONG>Примечание</STRONG>. 
+      Изменение ориентации при помощи средней кнопки мыши производится с 
+      использованием алгоритмов ПК Интеллект и работает с любыми поворотными 
+      камерами, однако в определенных условиях может работать нестабильно. Если 
+      камера поддерживает функцию Point&amp;Click, рекомендуется использовать 
+      ее</EM>.</P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px"><EM>Изменение 
+      ориентации при помощи правой кнопки рассчитывается видеокамерой и будет 
+      произведено только в том случае, если данная функциональная возможность 
+      поддерживается драйвером камеры и интегрирована в ПК 
+  Интеллект</EM></P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Щелчок 
+      правой кнопкой мыши</P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Нажатие 
+      и удержание правой кнопки мыши</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    colSpan=2>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Через 
+      равные промежутки времени срабатывает Point&amp;click, обрабатываемый 
+      драйвером камеры. Промежутки времени задаются при помощи ключа реестра 
+      TelemetryPointAndClickDelay, подробнее о нем см.<SPAN>&nbsp;</SPAN><A 
+      style="TEXT-DECORATION: ; COLOR: rgb(0,82,204)" 
+      href="https://docs.itvgroup.ru/confluence/pages/viewpage.action?pageId=136938954">Справочник 
+      ключей реестра</A>.</P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Нажатие 
+      и удержание левой кнопки мыши</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Увеличение 
+      зума объектива (приближение изображения)</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">-</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P class=Default 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Нажатие 
+      и удержание правой кнопки мыши</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Уменьшение 
+      зума объектива (отдаление изображения)</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">-</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Выделение 
+      области перемещением курсора с одновременным удержанием в нажатом 
+      положении правой кнопки мыши и 
+      клавиши&nbsp;<SPAN>&nbsp;</SPAN><STRONG>Ctrl</STRONG></P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px"><STRONG>Примечание.<SPAN>&nbsp;</SPAN></STRONG>Область 
+      выделяется рамкой, которая исчезает после отпускания клавиши мыши.</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    colSpan=2>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Увеличение 
+      и центрирование изображения на выделенной области (AreaZoom).</P>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px; PADDING-RIGHT: 0px"><STRONG>Примечание</STRONG>. 
+      Действие будет произведено только<SPAN>&nbsp;</SPAN><SPAN>в том случае, 
+      если функциональная 
+      возможность<SPAN>&nbsp;</SPAN><SPAN>AreaZoom<SPAN>&nbsp;</SPAN></SPAN>поддерживается 
+      драйвером камеры и интегрирована в 
+      ПК<SPAN>&nbsp;</SPAN></SPAN><EM>Интеллект</EM>.</P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Нажатие 
+      левой кнопки мыши в сочетании с нажатой 
+      клавишей<SPAN>&nbsp;</SPAN><STRONG>Shift</STRONG></P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    colSpan=2>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Увеличение 
+      фокуса</P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Нажатие 
+      правой кнопки мыши в сочетании с нажатой 
+      клавишей<SPAN>&nbsp;</SPAN><STRONG>Shift</STRONG></P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    colSpan=2>
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Уменьшение 
+      фокуса</P></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Прокрутка 
+      колесика мыши вверх</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Увеличение 
+      цифрового зума (приближение изображения)</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Увеличение 
+      оптического зума (приближение изображения)</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Прокрутка 
+      колесика мыши вниз</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Уменьшение 
+      цифрового зума (отдаление изображения)</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Уменьшение 
+      оптического зума (отдаление изображения)</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Прокрутка 
+      колесика мыши вверх + Ctrl</P></TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    rowSpan=2>-</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    rowSpan=2>Увеличение цифрового зума (приближение изображения)</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <DIV class=content-wrapper 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Прокрутка 
+      колесика мыши вверх при отключенном управлении телеметрией (значок имеет 
+      вид<SPAN>&nbsp;</SPAN><SPAN class=confluence-embedded-file-wrapper 
+      style="MAX-WIDTH: 100%; POSITION: relative; DISPLAY: inline-block"><IMG 
+      class=confluence-embedded-image 
+      style="CURSOR: move; MAX-WIDTH: none; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px 2px; DISPLAY: block; PADDING-RIGHT: 0px" 
+      src="https://docs.itvgroup.ru/confluence/download/attachments/136938028/3.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+      data-linked-resource-container-version="9" 
+      data-linked-resource-container-id="136938028" 
+      data-linked-resource-content-type="image/jpeg" 
+      data-base-url="https://docs.itvgroup.ru/confluence" 
+      data-linked-resource-default-alias="3.jpg" 
+      data-linked-resource-type="attachment" data-linked-resource-version="1" 
+      data-linked-resource-id="137200425" data-unresolved-comment-count="0" 
+      data-image-src="/confluence/download/attachments/136938028/3.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+      draggable="false"></SPAN>)</P></DIV></TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">Прокрутка 
+      колесика мыши вниз + Ctrl</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    rowSpan=2>-</TD>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px" 
+    rowSpan=2>Уменьшение цифрового зума (отдаление изображения)</TD></TR>
+  <TR>
+    <TD class=confluenceTd 
+    style="BORDER-TOP: rgb(193,199,208) 1px solid; BORDER-RIGHT: rgb(193,199,208) 1px solid; VERTICAL-ALIGN: top; MIN-WIDTH: 8px; BORDER-BOTTOM: rgb(193,199,208) 1px solid; PADDING-BOTTOM: 7px; TEXT-ALIGN: left; PADDING-TOP: 7px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(193,199,208) 1px solid; PADDING-RIGHT: 10px">
+      <DIV class=content-wrapper 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+      <P 
+      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Прокрутка 
+      колесика мыши вниз при отключенном управлении телеметрией (значок имеет 
+      вид<SPAN>&nbsp;</SPAN><SPAN class=confluence-embedded-file-wrapper 
+      style="MAX-WIDTH: 100%; POSITION: relative; DISPLAY: inline-block"><IMG 
+      class=confluence-embedded-image 
+      style="CURSOR: move; MAX-WIDTH: none; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px 2px; DISPLAY: block; PADDING-RIGHT: 0px" 
+      src="https://docs.itvgroup.ru/confluence/download/attachments/136938028/3.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+      data-linked-resource-container-version="9" 
+      data-linked-resource-container-id="136938028" 
+      data-linked-resource-content-type="image/jpeg" 
+      data-base-url="https://docs.itvgroup.ru/confluence" 
+      data-linked-resource-default-alias="3.jpg" 
+      data-linked-resource-type="attachment" data-linked-resource-version="1" 
+      data-linked-resource-id="137200425" data-unresolved-comment-count="0" 
+      data-image-src="/confluence/download/attachments/136938028/3.jpg?version=1&amp;modificationDate=1493983817000&amp;api=v2" 
+      draggable="false"></SPAN>)</P></DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV 
+class="confluence-information-macro confluence-information-macro-information conf-macro output-block" 
+style="BORDER-TOP: rgb(170,184,198) 1px solid; BORDER-RIGHT: rgb(170,184,198) 1px solid; BACKGROUND: rgb(252,252,252); BORDER-BOTTOM: rgb(170,184,198) 1px solid; POSITION: relative; COLOR: rgb(51,51,51); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 36px; MIN-HEIGHT: 20px; BORDER-LEFT: rgb(170,184,198) 1px solid; MARGIN: 10px 0px 1em; PADDING-RIGHT: 10px; border-radius: 5px" 
+data-macro-name="info" data-hasbody="true">
+<P class=title 
+style="FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">Примечание.</P><SPAN 
+class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon" 
+style='FONT-SIZE: 0px; TEXT-DECORATION: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none; VERTICAL-ALIGN: text-bottom; BACKGROUND-REPEAT: no-repeat; BORDER-BOTTOM: medium none; POSITION: absolute; BACKGROUND-POSITION: 0px 0px; COLOR: rgb(74,103,133); PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; LEFT: 10px; BORDER-LEFT: medium none; MARGIN: 0px; DISPLAY: block; LINE-HEIGHT: 20px; TOP: 12px; PADDING-RIGHT: 0px; --aui-icon-size: 16px; --aui-icon-font: "Adgs Icons"'></SPAN>
+<DIV class=confluence-information-macro-body 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">В 
+Окнах видеонаблюдения, соответствующих видеокамерам без поворотных устройств, 
+вышеописанные манипуляции мышью не действуют.</DIV></DIV></DIV>
+<DIV id=likes-and-labels-container 
+style='FONT-SIZE: 14px; OVERFLOW: hidden; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(23,43,77); PADDING-BOTTOM: 10px; FONT-STYLE: normal; PADDING-TOP: 10px; PADDING-LEFT: 0px; CLEAR: both; ORPHANS: 2; WIDOWS: 2; MARGIN: 10px 0px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>
+<DIV id=labels-section class="pageSection group" 
+style="WIDTH: 728px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">
+<DIV class="labels-section-content content-column" 
+style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px" 
+entitytype="page" entityid="136938028">
+<DIV class=labels-content 
+style="FONT-SIZE: 12px; VERTICAL-ALIGN: middle; POSITION: relative; FONT-WEIGHT: 300; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"><BR 
+class=Apple-interchange-newline></DIV></DIV></DIV></DIV></DIV></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Конаков Андрей Андреевич</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  05.07.2023 10:56</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи > Интеллект</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Решение проблемы</div></body></html>

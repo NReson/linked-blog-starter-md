@@ -1,0 +1,78 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#70 Инструкция по наиболее частым поломкам турникетов и пути решения</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><b><span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:RU;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Турникет </span><span lang="EN-US" style="font-size:
+11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA">Praktika</span><span lang="EN-US" style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:RU;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA"> </span><span lang="EN-US" style="font-size:11.0pt;
+line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">T</span><span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:RU;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">-04<br>
+Картроприемник<br>
+</span></b><span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:RU;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">1) Постоянный писк из карторприемника - разобрать
+картоприемник и извлечь номерок/карту.<br>
+2) Не проваливаются пропуска - разобрать картоприемник и извлечь номерок/карту
+из области механизма сброса.<br>
+3) Не стабильная работа картоприемника – Возможное повреждения механизма сброса
+карты и привода, необходим механический ремонт/восстановление поврежденных
+элементов. <br>
+4) Постоянный писк из картоприемника но застрявшая карта отсутствует –
+необходима чистка оптопар фиксирования пролета карты. <br>
+5) Полная неработоспособность картоприемника – перезагрузка картоприемника
+соответствующим предохранителем. <br>
+<b>Створки турникета</b><br>
+1) Открывается только одна створка (вторая свободно двигается рукой) – порвался
+ремень привода створки турникета, необходимо снять боковые крышки, открутить болты,
+фиксирующие натяжение ремня, заменить ремень.<br>
+2) Створки открываются, но не закрываются (створка дергается) – Выкрутился
+штифт крепления створки к корпусу турникета. Необходимо разобрать механизм
+крепления створки и поставить штифт в исходное положение.<br>
+&nbsp;3) Не открываются створки или
+открывается только одна створка (вторая не двигается рукой) с карточек и с
+пульта (на пульте нет световой индикации) – проверить подключение пульта,
+проверить синхронизацию створок. При необходимости перезагрузить турникет по
+питанию.<br>
+4) Дверцы открываются но одна из створок при движении дергается (может
+открываться/закрываться не полностью) – ослабилось натяжение ременя привода
+створки турникета, необходимо снять боковые крышки, открутить болты фиксирующие
+натяжение ремня, выполнить натяжку ремня.<br>
+5) Одна или обе створки не открываются/фиксатор створки щелкает но дверцы не
+двигаются – необходима замена платы управления шаговым двигателем.<br>
+6) После замены платы необходимо произвести синхронизацию створок турникета,
+так же необходимо задать конечные точки открытия/закрытия створок путем нажатия
+соответствующих кнопок на плате коммутации либо перезагрузкой турникета и
+нажатия на пульте поочередно кнопок «Крести» и «Аварийное открытие/антипаника».
+<br>
+<!--[if !supportLineBreakNewLine]--><br>
+<!--[endif]--></span></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="font-size: 12px;line-height: 14px;margin-top: 10px;">Типичная схема подключения СКУД Дверь 02.jpg, 16.02.2023 14:19, 493 KB</div>
+<div style="font-size: 12px;line-height: 14px;margin-top: 10px;">Типичная схема подключения СКУД Дверь 01.jpg, 16.02.2023 14:19, 828.21 KB</div>
+<div style="font-size: 12px;line-height: 14px;margin-top: 10px;">Типичная схема подключения СКУД Турникет.jpg, 16.02.2023 14:19, 1.02 MB</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Шамбурова Ольга Владимировна</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  16.02.2023 14:18</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: </div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Помощь в работе</div></body></html>

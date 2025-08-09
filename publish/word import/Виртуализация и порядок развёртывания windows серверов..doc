@@ -1,0 +1,295 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#64 Виртуализация и порядок развёртывания windows серверов.</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt;line-height:107%">Виртуализация и порядок развёртывания
+</span></b><b><span lang="EN-US" style="font-size:18.0pt;line-height:107%;
+mso-ansi-language:EN-US">windows</span></b><b><span style="font-size:18.0pt;
+line-height:107%"> серверов.<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><span style="font-size:18.0pt;line-height:107%">Кластеры в
+vcenter<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">SUPER</span>
+– все сервера продуктивного контура (пока ещё там есть и тестовые сервер пока
+не пришла память на <span lang="EN-US" style="mso-ansi-language:EN-US">green</span>)<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">GREEN</span>
+– все сервера <span lang="EN-US" style="mso-ansi-language:EN-US">IT</span><span lang="EN-US"> </span>сервисов, и тестовые контуры систем (технические сервера, вероятно
+перенесём на кластер <span lang="EN-US" style="mso-ansi-language:EN-US">BLACK</span><span lang="EN-US"> </span>когда придут новые сервера, а тут оставим тестовые сервера,
+так же ожидаем поставку памяти 1 ТБ на каждый хост в октябре 2021)<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">ICCA</span><span lang="EN-US"> </span>(не настроена автоматической миграции между хостами) – все
+сервера <span lang="EN-US" style="mso-ansi-language:EN-US">ICCA</span><span lang="EN-US"> </span>и можно также развернуть не сильно нагруженные сервера
+медицинских систем, <span lang="EN-US" style="mso-ansi-language:EN-US">ICCA</span><span lang="EN-US"> </span>в приоритете<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">BLACK</span>
+– тестовые серверы (ожидаем поставку новых серверов в замен данных, они у же
+старые и работают пока не сломались БЕЗ гарантии)<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">Arbat</span>
+– сервера расположенные в КДЦ Арбатский (их там не много, хранилище подключена
+по <span lang="EN-US" style="mso-ansi-language:EN-US">ISCSI</span>, на сервер 37-paksarbat01
+та же хранилище подключена ещё одним луном по <span lang="EN-US" style="mso-ansi-language:EN-US">ISCSI</span>)<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><span style="font-size:18.0pt;line-height:107%">Луны с
+хранилищ в vcenter <o:p></o:p></span></p>
+
+<p class="MsoNormal"><i><span style="font-size:18.0pt;line-height:107%">(на всех
+лунах необходимо оставлять свободное место более 700 гб для создания снапшотов
+во время бэкапа </span></i><i><span lang="EN-US" style="font-size:18.0pt;
+line-height:107%;mso-ansi-language:EN-US">VEEAM</span></i><i><span style="font-size:18.0pt;line-height:107%">)</span></i><span style="font-size:
+18.0pt;line-height:107%"><o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">Arbat</span>_<span lang="EN-US" style="mso-ansi-language:EN-US">NetAPP</span>_<span lang="EN-US" style="mso-ansi-language:EN-US">LUN</span>1 – лун под сервера на Арбате <o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">d</span>atastore1
+– лун на локальном диске хоста arbat-node2 (для дистрибутивов)<o:p></o:p></p>
+
+<p class="MsoNormal">datastore1 (1) – лун на локальном диске хоста arbat-node1
+(для дистрибутивов)<o:p></o:p></p>
+
+<p class="MsoNormal">EMC_AX4_LUN-1 – лун под тестовый контур и не критичные
+файловые шару (хранилка старая без поддержки и плохой производительности)<o:p></o:p></p>
+
+<p class="MsoNormal">EMC_AX4_LUN-2 – лун под тестовый контур и не критичные
+файловые шару (хранилка старая без поддержки и плохой производительности)<o:p></o:p></p>
+
+<p class="MsoNormal">EMC_AX4_LUN-3 – лун под тестовый контур и не критичные
+файловые шару (хранилка старая без поддержки и плохой производительности)<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">LocalDatastore</span>_<span lang="EN-US" style="mso-ansi-language:EN-US">esxi</span>10 - лун на локальном
+диске хоста <span lang="EN-US" style="mso-ansi-language:EN-US">esxi</span>10 (на
+всякий случай)<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">LocalDatastore</span>_<span lang="EN-US" style="mso-ansi-language:EN-US">esxi</span>11 - лун на локальном
+диске хоста <span lang="EN-US" style="mso-ansi-language:EN-US">esxi</span>11 (на
+всякий случай)<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">LocalDatastore</span>_<span lang="EN-US" style="mso-ansi-language:EN-US">esxi</span>12 - лун на локальном
+диске хоста <span lang="EN-US" style="mso-ansi-language:EN-US">esxi</span>12 (на
+всякий случай)<o:p></o:p></p>
+
+<p class="MsoNormal">MSA2040_Lun04, 05, 06, 07 – все луны задействованы под бэкап
+<span lang="EN-US" style="mso-ansi-language:EN-US">VEEAM</span> (ничего не разворачивать)<o:p></o:p></p>
+
+<p class="MsoNormal">NetApp_LUN06 – лун под продуктивные сервера (на нем
+расположен сервер <span lang="EN-US" style="mso-ansi-language:EN-US">EMH</span><span lang="EN-US"> </span>это основной сервер в центре с файловыми шарами, лучше на
+данном луне не разворачивать сервера так как необходим запас по месту для
+расширения)<o:p></o:p></p>
+
+<p class="MsoNormal">NetApp_LUN08 – лун под продуктивные сервера<o:p></o:p></p>
+
+<p class="MsoNormal">NetApp_LUN09 – лун под продуктивные сервера<o:p></o:p></p>
+
+<p class="MsoNormal">NetApp_LUN10 – лун под продуктивные сервера (на нем
+расположен сервер 70-<span lang="EN-US" style="mso-ansi-language:EN-US">remote</span>-<span lang="EN-US" style="mso-ansi-language:EN-US">profiles</span><span lang="EN-US"> </span>это
+сервер хранения переносимых профилей в Стационаре и КДЦ Измайловский на данном
+луне не разворачивать сервера так как необходим запас по месту для расширения)<o:p></o:p></p>
+
+<p class="MsoNormal">NetApp_LUN11 – лун под продуктивные сервера (Развернут
+кластер <span lang="EN-US" style="mso-ansi-language:EN-US">SQL</span><span lang="EN-US"> </span>серверов МИС тоже может понадобиться место для расширения)<o:p></o:p></p>
+
+<p class="MsoNormal">DatastorePAKS_1, 2,3,4,5 – луны для сервера 70-<span lang="EN-US" style="mso-ansi-language:EN-US">paks</span>01 (сервер хранения
+снимков <span lang="EN-US" style="mso-ansi-language:EN-US">DICOM</span>, очень
+важный архив, севера на данных лунах не разворачивать)<o:p></o:p></p>
+
+<p class="MsoNormal">SAN_Compelent1_1 – лун под продуктивные сервера<o:p></o:p></p>
+
+<p class="MsoNormal">SAN_Compelent2_1 – лун под продуктивные сервера (в папке <span lang="EN-US" style="mso-ansi-language:EN-US">install</span><span lang="EN-US"> </span>лежат
+<span lang="EN-US" style="mso-ansi-language:EN-US">ISO</span><span lang="EN-US"> </span>файлы
+дистрибутивов)<o:p></o:p></p>
+
+<p class="MsoNormal">SAN_Compelent2_2 – лун под продуктивные сервера<o:p></o:p></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">SAN</span>_<span lang="EN-US" style="mso-ansi-language:EN-US">Compelent</span>2_3 – лун сервера <span lang="EN-US" style="mso-ansi-language:EN-US">ICCA</span> (должен оставаться запас
+по месту для расширения)<o:p></o:p></p>
+
+<p class="MsoNormal">Так же в 2021 году ожидаем закупки ещё одного хранилища.<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><span style="font-size:18.0pt;line-height:107%">Расположение
+серверов по папкам в vcenter и </span><span lang="EN-US" style="font-size:18.0pt;
+line-height:107%;mso-ansi-language:EN-US">OU</span><span lang="EN-US" style="font-size:18.0pt;line-height:107%"> </span><span style="font-size:18.0pt;
+line-height:107%">в </span><span lang="EN-US" style="font-size:18.0pt;line-height:
+107%;mso-ansi-language:EN-US">AD</span><span style="font-size:18.0pt;
+line-height:107%">, прядок создания новых серверов </span><span lang="EN-US" style="font-size:18.0pt;line-height:107%;mso-ansi-language:EN-US">windows</span><span style="font-size:18.0pt;line-height:107%">.<o:p></o:p></span></p>
+
+<p class="MsoNormal">Для удобства в использовании все сервера разделены на
+системы, а большие системы на под системы, так же есть продуктивные сервера и
+тестовые.<o:p></o:p></p>
+
+<p class="MsoNormal">В идеале мы должны прийти к тому что иерархия серверов папок
+в <span lang="EN-US" style="mso-ansi-language:EN-US">vcenter</span><span lang="EN-US"> </span>должна совпадать с <span lang="EN-US" style="mso-ansi-language:
+EN-US">OU</span><span lang="EN-US"> </span>в <span lang="EN-US" style="mso-ansi-language:
+EN-US">AD</span>.<o:p></o:p></p>
+
+<p class="MsoNormal">На каждый новый сервер в <span lang="EN-US" style="mso-ansi-language:
+EN-US">vcenter</span>, если он не добавляется в уже существующую систему создаётся
+новая папка или подпапка в системе к которой относиться сервер с названием
+сервиса и заполняется описание развёрнутого сервера.<o:p></o:p></p>
+
+<p class="MsoNormal">Все новые сервер разворачиваются в отдельном сегменте сети
+(создаётся отдельная подсеть, настраивается доступ в ресурсам по портам,
+подсетям или <span lang="EN-US" style="mso-ansi-language:EN-US">IP</span><span lang="EN-US"> </span>адресам, возможно и все вместе), также создаётся отдельная
+группа для удалённого доступа к данному сегменту сети и управления серверами в
+данном сегменте. <o:p></o:p></p>
+
+<p class="MsoNormal">В папке <span lang="EN-US" style="mso-ansi-language:EN-US">ITInfrastructure</span>
+- _<span lang="EN-US" style="mso-ansi-language:EN-US">Template</span><span lang="EN-US"> </span>находятся готовые образа серверов <span lang="EN-US" style="mso-ansi-language:EN-US">WINDOWS</span><span lang="EN-US"> </span>(пароль
+Администратора 123456789<span lang="EN-US" style="mso-ansi-language:EN-US">zXC</span>,
+после разворачивания нового сервер пароль необходимо сменить на надёжный 12
+символов, верхний регистр, строчные буквы, числа, символы лучше использовать
+генератор паролей и присылать мне на почту <span class="MsoHyperlink"><span lang="EN-US" style="mso-ansi-language:EN-US"><a href="mailto:gorbunovap@pirogov-center.ru">gorbunovap<span lang="RU" style="mso-ansi-language:RU">@</span>pirogov<span lang="RU" style="mso-ansi-language:
+RU">-</span>center<span lang="RU" style="mso-ansi-language:RU">.</span>ru</a></span></span><span lang="EN-US"> </span>для сохранения в базе.<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal">Образец<o:p></o:p></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="width:255.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt">
+  <td width="176" nowrap="" valign="bottom" style="width:132.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-fareast-language:RU">70-</span><span lang="EN-US" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:RU">server</span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-fareast-language:RU">01<o:p></o:p></span></p>
+  </td>
+  <td width="164" nowrap="" valign="bottom" style="width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt"></td>
+ </tr>
+ <tr style="mso-yfti-irow:1;height:15.0pt">
+  <td width="176" nowrap="" valign="bottom" style="width:132.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-fareast-language:RU">10.1.13.122<o:p></o:p></span></p>
+  </td>
+  <td width="164" nowrap="" valign="bottom" style="width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span lang="EN-US" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-ansi-language:EN-US;mso-fareast-language:RU">SQL<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:15.0pt">
+  <td width="176" nowrap="" valign="bottom" style="width:132.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-fareast-language:RU">Администратор<o:p></o:p></span></p>
+  </td>
+  <td width="164" nowrap="" valign="bottom" style="width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-fareast-language:RU">Sa<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:15.0pt">
+  <td width="176" nowrap="" valign="bottom" style="width:132.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span lang="EN-US" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-ansi-language:EN-US;mso-fareast-language:RU">123456789012</span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-fareast-language:RU"><o:p></o:p></span></p>
+  </td>
+  <td width="164" nowrap="" valign="bottom" style="width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span lang="EN-US" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-ansi-language:EN-US;mso-fareast-language:RU">123456789012</span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-fareast-language:RU"><o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal">Такие же правила и для установки <span lang="EN-US" style="mso-ansi-language:EN-US">SQL</span><span lang="EN-US"> </span>или других
+приложений.<o:p></o:p></p>
+
+<p class="MsoNormal">Также все устанавливаемые Приложения, если им необходима для
+работы учётная запись в <span lang="EN-US" style="mso-ansi-language:EN-US">AD</span>
+должны использовать сервисные учётные записи и политика паролей к ним такая же,
+располагать данные учётные записи в <span lang="EN-US" style="mso-ansi-language:
+EN-US">AD</span> по пути pirogov-center.loc/Pirogov-center/Services/ и
+создавать для них отдельную <span lang="EN-US" style="mso-ansi-language:EN-US">OU</span>
+и заполнять описание в учётной записи (чтобы потом самим не запутаться).<o:p></o:p></p>
+
+<p class="MsoNormal">Сервера располагаются по пути pirogov-center.loc/Pirogov-center/Servers/,
+и там должна быть такая же иерархия <span lang="EN-US" style="mso-ansi-language:
+EN-US">OU</span><span lang="EN-US"> </span>как и папки в <span lang="EN-US" style="mso-ansi-language:EN-US">vcenter</span>, с дополнительными <span lang="EN-US" style="mso-ansi-language:EN-US">OU</span><span lang="EN-US"> </span>физических
+серверов и т.д.<o:p></o:p></p>
+
+<p class="MsoNormal">После создания новой <span lang="EN-US" style="mso-ansi-language:
+EN-US">OU</span><span lang="EN-US"> </span>для сервера в <span lang="EN-US" style="mso-ansi-language:EN-US">AD</span>, также необходимо создать группу для
+добавления различных пользователь для настройки или обслуживания приложений,
+установленных на сервере с правами локального Администратора. Группа<span style="mso-ansi-language:EN-US"> </span>создаётся<span style="mso-ansi-language:
+EN-US"> </span>по<span style="mso-ansi-language:EN-US"> </span>пути<span style="mso-ansi-language:EN-US"> <span lang="EN-US">pirogov-center.loc/Pirogov-center/Groups/Anyconnect/.<span style="mso-spacerun:yes">&nbsp; </span></span></span>Для получения удалённого
+доступа к созданному сегменту необходимо добавлять ПОЛЬЗОВАТЕЛЯ не Группы
+пользователей в созданную Группу.<o:p></o:p></p>
+
+<p class="MsoNormal">Пример<span lang="EN-US" style="mso-ansi-language:EN-US">:<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">rg-sa-service
+(resource group – system administrator – </span>наименование<span style="mso-ansi-language:EN-US"> </span>системы<span style="mso-ansi-language:
+EN-US"> </span>и<span style="mso-ansi-language:EN-US"> </span>сервера<span lang="EN-US" style="mso-ansi-language:EN-US">) <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">ug</span>-<span lang="EN-US" style="mso-ansi-language:EN-US">app</span>- <span lang="EN-US" style="mso-ansi-language:EN-US">service</span> (<span lang="EN-US" style="mso-ansi-language:EN-US">user</span><span lang="EN-US"> </span><span lang="EN-US" style="mso-ansi-language:EN-US">group</span> – приложение или <span lang="EN-US" style="mso-ansi-language:EN-US">web</span><span lang="EN-US"> </span>сайт
+по типу программного обеспечения на сервер – наименование системы и сервера)<o:p></o:p></p>
+
+<p class="MsoNormal">Далее на <span lang="EN-US" style="mso-ansi-language:EN-US">OU</span><span lang="EN-US"> </span>создаётся групповая политика для добавления распространения
+созданных групп на сервера в данной <span lang="EN-US" style="mso-ansi-language:
+EN-US">OU</span> с соответствующими правами. (Политику создаёт Гриднев или
+Горбунов).<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><span style="font-size:18.0pt;line-height:107%">Установка
+обязательных программ на сервер<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">Zabbix</span><span lang="EN-US"> </span><span lang="EN-US" style="mso-ansi-language:EN-US">agent</span>
+- <span class="MsoHyperlink"><a href="file://emh/Zabbix-agent">\\<span lang="EN-US" style="mso-ansi-language:EN-US">emh</span>\<span lang="EN-US" style="mso-ansi-language:EN-US">Zabbix</span>-<span lang="EN-US" style="mso-ansi-language:EN-US">agent</span></a></span><span style="mso-spacerun:yes">&nbsp; </span>(<span lang="EN-US" style="mso-ansi-language:
+EN-US">zabbix</span>-<span lang="EN-US" style="mso-ansi-language:EN-US">install</span>.<span lang="EN-US" style="mso-ansi-language:EN-US">bat</span>)<o:p></o:p></p>
+
+<p class="MsoNormal">Антивирус<span style="mso-ansi-language:EN-US"> </span>Касперского<span lang="EN-US" style="mso-ansi-language:EN-US"> - <span class="MsoHyperlink"><a href="file://70-kav01/KLSHARE/PkgInst/NetAgent_11.0.0.1131_WSEE_10.1.2.996">\\70-kav01\KLSHARE\PkgInst\NetAgent_11.0.0.1131_WSEE_10.1.2.996</a></span>
+<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">Secret Net
+Studio - <span class="MsoHyperlink"><a href="file://secretnet/Repository/8_5_5329">\\secretnet\Repository\8_5_5329</a></span>
+<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US"><o:p>&nbsp;</o:p></span></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="font-size: 12px;line-height: 14px;margin-top: 10px;">Описание систем НМХЦ для ИТ.docx, 14.02.2023 16:37, 20.5 KB</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Спиридонов Кирилл Игоревич</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  14.02.2023 16:37</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Помощь в работе</div></body></html>

@@ -1,0 +1,36 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#197 Удаления Vipnet SafeBoot, прошивка UEFI AQUARIUS AQH310CM   </div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><p class="MsoNormal"><span style="font-size:15.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">1.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Скачать
+файл AQ310CM0.06M в корень flash накопителя. (\\10.1.31.115\Share\Subsidia\Восстановление\AQ310CM0.7z)<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:15.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">2.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Подключить её к компьютер.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:15.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">3.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Зайти в
+UEFI, для это того в настрой Vipnet SafeBoot зайти в настройки и выбрать пункт
+«Разрешить однократный вход в BIOS Setup».<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:15.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">4.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Зайти в
+UEFI, выбрать пункт утилиты.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:15.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">5.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Нажать
+обновить. (Во время обновления компьютер не отключаем и за провода не дёргаем.)<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:15.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">6.<span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>После
+того как дойдёт до 100% компьютер перезагрузиться и программы Vipnet SafeBoot
+уже не будет.<o:p></o:p></span></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Спиридонов Кирилл Игоревич</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  26.06.2025 16:56</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Помощь в работе</div></body></html>

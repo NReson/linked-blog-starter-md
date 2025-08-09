@@ -1,0 +1,156 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#131 Профили пользователей регистратуры</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><p class="MsoNormal"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Профили
+пользователей регистратуры<o:p></o:p></span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">КДЦ
+Измайловский<o:p></o:p></span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">Все сотрудники регистратуры обязаны работать под
+доменной учетной записью. В целях упрощения процесса первичной авторизации на
+АРМах регистраторы, выполнена автоматизация процессов настройки. Сформирован
+скрипт, создана групповая политика, которая распространяется на компьютеры в </span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-ansi-language:EN-US">OU</span><span style="font-size:12.0pt;line-height:
+107%;font-family:&quot;Times New Roman&quot;,serif">: <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">KDC_regist - регистратура КДЦ Измайловский.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">KDC_kassa - касса КДЦ Измайловский. <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif"><span style="mso-spacerun:yes">&nbsp;</span>Отработка
+скрипта происходит однократно, т.к. при первом запуске скрипт создает небольшой
+текстовый файл в профиле пользователя. <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">Регистратура</span><span lang="EN-US" style="font-size:
+12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
+EN-US">: <o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Создание
+ярлыков: Электронная Очередь, ЛК, ЕТД MSClinic;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Подключение
+принтера</span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">;</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Настройка
+считывателей</span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">;</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Настройка
+МИС</span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">.</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">Касса</span><span lang="EN-US" style="font-size:12.0pt;
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">:
+<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Создание
+ярлыков: ЕТД </span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">MSClinic</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US"><span style="mso-list:Ignore">2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang="EN-US" style="font-size:12.0pt;
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">Подключение
+принтера;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US"><span style="mso-list:Ignore">3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang="EN-US" style="font-size:12.0pt;
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">Настройка
+считывателей;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US"><span style="mso-list:Ignore">4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang="EN-US" style="font-size:12.0pt;
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">Настройка
+МИС;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US"><span style="mso-list:Ignore">5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif">Установка и настройка 1</span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-ansi-language:EN-US">C;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-US"><span style="mso-list:Ignore">6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif">Почтовый ящик.</span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-ansi-language:EN-US"><o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">Расшифровка</span><span lang="EN-US" style="font-size:
+12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
+EN-US">: <o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l0 level1 lfo3"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Создание
+ярлыков:</span></b><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif"> копирует файлы ярлыков из сетевой папки, отменяет при
+наличии.<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo3"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Подключение
+принтера</span></b><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">: читает поле "Описание" из компьютера в </span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-ansi-language:EN-US">Active</span><span lang="EN-US" style="font-size:12.0pt;
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif"> </span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-ansi-language:EN-US">Directory</span><span style="font-size:12.0pt;
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif">. Подключает, устанавливает
+принтер по умолчанию.<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo3"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Настройка
+считывателей</span></b><span style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif">: определяет модель считывателя пропусков:
+</span><span lang="EN-US" style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">SiliconLabs</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">
+работает нативно, </span><span lang="EN-US" style="font-size:12.0pt;line-height:
+107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">IronLogic</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">
+и другие, требуют </span><span lang="EN-US" style="font-size:12.0pt;line-height:
+107%;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">PlaceCard</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">
+для своей работы. Необходимо, чтобы считыватель был на порту COM3 т.к. все
+заготовленные файлы ссылаются именно на этот порт.<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo3"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Настройка
+МИС:</span></b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">
+копирует файл с настройками МИС.<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo3"><!--[if !supportLists]--><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Установка
+и настройка 1C:</span></b><span style="font-size:12.0pt;line-height:107%;
+font-family:&quot;Times New Roman&quot;,serif"> копирует файлы, запускает, создает ярлык.<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l0 level1 lfo3"><!--[if !supportLists]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-list:Ignore">6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><!--[endif]--><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Почтовый
+ящик: </span></b><span style="font-size:12.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif">импортирует ветку реестра почтового ящика </span><a href="mailto:kassakdcizmaylovskiy@pirogov-center.ru"><span style="font-size:
+12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">kassakdcizmaylovskiy@pirogov-center.ru</span></a><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">
+(ввод пароля в ручном режиме)</span></p></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Конаков Андрей Андреевич</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  23.10.2023 12:56</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Помощь в работе</div></body></html>

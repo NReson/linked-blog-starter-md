@@ -1,0 +1,48 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#106 Проблема при двухсторонней печати из MSCLINIC</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">В рамках
+обновления программного обеспечения MSСlinic, были внесены некоторые изменения
+в работу генерации отчетов FastReport.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Проблема: <o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">При печати
+документа "Карта выбывшего из стационара (2022)" на принтере HP
+M428dw(при условии что включена двусторонняя печать) с драйвером версии </span><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">V</span><span style="font-family:&quot;Arial&quot;,sans-serif">3, печатается первая страница, далее
+принтер запрашивает перевернуть лист вручную.<o:p></o:p></span></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><p class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Решение:<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">В случае,
+поступления жалоб на некорректную работу двухсторонней печати на принтерах HP
+LJ M428</span><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif;
+mso-ansi-language:EN-US">dw</span><span style="font-family:&quot;Arial&quot;,sans-serif">,
+необходимо выполнить следующие действия: <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">1)<span style="mso-spacerun:yes">&nbsp; </span>Обязательно должно быть заведено обращение в
+Инфраменеджер на проблему с подробным описанием. (Заявитель, АРМ на котором
+зафиксирована проблема, принтер на который печатает заявитель/пользователь,
+номер телефона и т.д.)<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">2)<span style="mso-spacerun:yes">&nbsp; </span>На принт-сервере находим принтер, указанный в
+обращении, проверяем версию драйвера (V3 – V4). <o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">3)<span style="mso-spacerun:yes">&nbsp; </span>Если версия драйвера указана V3, необходимо
+изменить версию драйвера на V4, сохранить параметры, дождаться применения
+настроек.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">4)<span style="mso-spacerun:yes">&nbsp; </span>После изменения версии драйвера на принтере,
+необходимо созвониться с заявителем, удостовериться в том, что проблема с
+двухсторонней печатью решена из </span><span lang="EN-US" style="font-family:
+&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">MSClinic</span><span style="font-family:&quot;Arial&quot;,sans-serif">, а также проверить возможность печати и
+в других программах.<o:p></o:p></span></p></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Конаков Андрей Андреевич</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  24.05.2023 12:52</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: </div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Решение проблемы</div></body></html>

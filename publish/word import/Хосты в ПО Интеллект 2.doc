@@ -1,0 +1,616 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#143 Хосты в ПО Интеллект</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="741" style="width:556.0pt;mso-cellspacing:0cm;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 0cm 0cm 0cm">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt">
+  <td width="237" style="width:178.0pt;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">id<o:p></o:p></span></p>
+  </td>
+  <td width="504" style="width:378.0pt;padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">name<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">37-46017633<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охрана (КДЦ Арбатский ПОСТ№2)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">37-47N000467<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Беленова
+  Т.В ( КДЦ Арбатский, Главный врач)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">37-48040990<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охрана (КДЦ Арбатский)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">65-46751234<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Борщёв
+  Глеб Геннадьевич<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">65-46751257<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охраны (ИУВ)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">65-47N000315<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Савчук
+  Т А (Главный врач КДЦ "Измайловский")<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">65-48040782<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охраны (Гараж)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">65-48042711<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охраны (КДЦ Измайловский)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">65-48044257<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Михалев
+  В.В. (Начальника транспортного отдела)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70012001-1-0001<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Зотова
+  А. А. (начальник управления)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:11;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-46117827<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Зайнуллин
+  Р.Т. (заместитель начальника административного уп)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:12;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-46117864<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Кашич
+  Л. Ф. (заведующий производством, Пищеблок)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:13;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-46751200<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Зотова
+  А.А. 2 (начальник управления)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:14;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47744950<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охраны&nbsp; (Стационар, 10к. 1э.)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:15;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000174<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Пиманчев
+  О.В.(зав. отделением&nbsp; травматологии и ортопедии)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:16;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000271<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Ловцевич
+  Н.В. ( ОАР, заведующий отделением )<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:17;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000272<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Теплых
+  Б.А. (ОАР-1, заведующий отделением)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:18;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000275<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Ботов
+  А.В. (Отделение хирургии №2)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:19;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000347<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Гороховатский
+  Ю.И. (Отделение анестезиологии-реанимации)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:20;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000364<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Максименков
+  А.В. ( Отделение хирургии №2 )<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:21;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000368<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Максименков
+  А.В. ( Отд. хирургии №2, Орд.ПК1)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:22;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000384<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Хасянова
+  Э. М. (1 корпус, 2 этаж ) VIP<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:23;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000427<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Пиманчев
+  О. В. (ПК в ординаторской 10к.4э.)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:24;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000485<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Животов
+  В. А. (Отделение хирургии №2, врач-хирург)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:25;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000486<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Масленников
+  Михаил Андреевич<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:26;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-47N000518<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Марчак
+  Дмитрий Игоревич<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:27;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48040075<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Пивкина
+  А. И. (главная медицинская сестра)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:28;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48040783<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Гусаров
+  В.Г. (Стационар, Главный врач)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:29;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48040804<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Компьютер
+  (Служба охраны - КПП_ТВ2)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:30;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48040814<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Ветшев
+  П.С. (советник по клинической и научной работе)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:31;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48041116<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Шевченко
+  Ю. Л. (19 корпус, 2 этаж)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:32;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48041407<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Старостина
+  М.В. (Операционный блок)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:33;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48041461<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Место
+  мониторинга ТП<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:34;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48041858<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Масленникова
+  М.И. (Группа референтного сопровождения)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:35;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042040<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Катанов
+  Д. Н. (советник генерального директора)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:36;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042043<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Юмцунова
+  Н.А. (Отдел санитарного обслуживания)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:37;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-46751272<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Веселова
+  О.В. (заместитель генерального директора по информ)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:38;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042122<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Животов
+  В. А. (ПК в ординаторской)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:39;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042124<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">ОИТ
+  (Конаков Андрей Андреевич)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:40;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042515<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Габоян
+  Я.С. (Главная медицинская сестра)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:41;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042519<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Петракушина_Зав_ЦСО<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:42;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042712<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Солопов
+  М.В. (Служба охраны, заместитель начальника)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:43;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042740<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Компьютер
+  ( Зал Ученого Совета )<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:44;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042890<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Вип
+  палата 2 в Отделение анестезиологии-реанимации №1<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:45;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042894<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Пиманчев
+  О. В. (ПК в ординаторской 10к.5э.)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:46;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48042899<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Вип
+  палата 1 в Отделение анестезиологии-реанимации №1<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:47;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48043802<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Сестринская
+  опер блок 19 к<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:48;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48043825<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Служба
+  охраны&nbsp; (Пультовая КПП)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:49;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48043980<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">10
+  корпус 58 каб интелект в сестринской оперблок<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:50;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48043990<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Сухинин
+  А.С. (Служба охраны)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:51;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044227<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Попова
+  Я. В. (Начальник управления контроля качества)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:52;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044467<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Зуев
+  А.А.(Отделение нейрохирургии, заведующий отделением)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:53;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044720<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Воронцова
+  Е.О. (Зав. оперблоком)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:54;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044721<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Реанимация
+  10к 2этаж Б<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:55;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044723<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Старш.
+  м/с опер.блока (Старостина Мария)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:56;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044870<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Никитенко
+  Д.Н. (первый заместитель генерального директора<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:57;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-48044874<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Силаева
+  Н.А. (заместитель генерального директора по мед)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:58;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">70-MANAGEMENT<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Терминальный
+  сервер (70-management)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:59;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">IT-VIDEO-TV<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Компьютер
+  it-video-tv (ОИТ ТВ)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:60;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">KARPOVOE<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Карпов
+  О. Э. (1 корпус, 1 этаж ) Компьютер<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:61;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">KOE_PRESTIGIO<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Карпов
+  О. Э. (1 корпус, ТВ)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:62;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">LIFTER-PC<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Лифтовая
+  служба (10 корпус, подвал)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:63;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">MAC_KOE<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Компьютер
+  Mac_KOE ( КОЭ )<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:64;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">MAC_KOE_2<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Компьютер
+  mac_koe_2 (КОЭ)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:65;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">OPERATOR2<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Пироговский
+  зал ПК2<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:66;mso-yfti-lastrow:yes;height:15.0pt">
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">SHEVCHENKOUL<o:p></o:p></span></p>
+  </td>
+  <td style="padding:0cm 0cm 0cm 0cm;height:15.0pt">
+  <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Шевченко
+  Ю. Л. (1 корпус, 1 этаж )<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table><br></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Конаков Андрей Андреевич</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  15.11.2023 10:04</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи > Интеллект</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Вопрос-ответ</div></body></html>

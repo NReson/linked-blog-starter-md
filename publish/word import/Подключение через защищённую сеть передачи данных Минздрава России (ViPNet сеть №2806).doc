@@ -1,0 +1,27 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><div style="font-size: 12px;font-style: italic;line-height: 14px;margin-bottom:20px;">Статья базы знаний</div>
+<div style="height: 25px;margin-right: 20px;overflow: hidden;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">#135 Подключение через защищённую сеть передачи данных Минздрава России (ViPNet сеть №2806)</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Описание</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;">Подключение через защищённую сеть передачи данных Минздрава России (ViPNet сеть №2806)</div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Решение</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"><div>Для добавления какого-либо сервиса для работы через защищённую сеть передачи данных Минздрава России</div><div>(ViPNet сеть №2806) (ViPNet ЕГИСЗ) необходимо обратиться в СТП данной системы. Адрес и телефон обычно находятся в инструкции по подключению.</div><div>В запросе описать проблему, указать наименование организации, ip адрес&nbsp; ViPNet ЕГИСЗ - 45.94.22.11. СТП инициирует запрос в ООО «РТ МИС»&nbsp;</div><div>для изменения настроек координатора ViPNet ЕГИСЗ.</div><div>Можно напрямую обратиться в ООО «РТ МИС» (адрес СТП stp.mis@rtmis.ru)&nbsp;</div><div><br></div><div>Образец заявки:</div><div><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:RU;mso-fareast-language:
+RU;mso-bidi-language:AR-SA"><i>Добрый день.<br>
+Наша организация Федеральное государственное бюджетное учреждение<br>
+«Национальный медико-хирургический Центр имени Н.И. Пирогова»<br>
+(ФГБУ «НМХЦ им. Н.И. Пирогова» Минздравсоцразвития России) ИНН 771901001<br>
+Согласно инструкции были произведены настройка маршрутизации адреса
+10.41.254.239 на координатор ViPNet сети ЗСПД Минздрава 2806, имеющийся в нашей
+огганизации. В прилагаемой инструкции необходимо получить доступ к ip адресу в
+сети ЗСПД Минздрава 2806 10.41.254.239 по тср порту 443. В настоящее время
+адрес 10.41.254.239 из нашей сети недоступен.<br>
+Адрес нашего Випнет шлюза в сети ЗСПД Минздрава 45.94.22.11. Прошу произвести
+необходимые настройки на Випнет шлюзе в сети ЗСПД Минздрава.<br></i>
+<!--[if !supportLineBreakNewLine]--><br>
+<!--[endif]--></span></div></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Обходной путь</div>
+<div style="margin-top: 5px;margin-left: 0;white-space: normal;font-size: 12px;color: #333;"></div>
+<div style="line-height: normal;margin-top: 20px;margin-bottom: 10px;font-family: Arial,Helvetica,sans-serif;font-weight: normal;font-size: 22px;">Файлы</div>
+<div style="margin-top: 40px;font-size: 12px;font-style: italic;line-height: 14px;">Опубликовал:  Филатов Юрий Владимирович</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Дата публикации:  09.11.2023 11:14</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Раздел базы знаний: Технические статьи</div>
+<div style="margin-top: 10px;font-size: 12px;font-style: italic;line-height: 14px;">Тип статьи:  Помощь в работе</div></body></html>
