@@ -1,8 +1,8 @@
 ---
 title: База знаний Омега
-excerpt: 1
+excerpt: hihi
 ---
 [[Добро пожаловать 1]]
 
 Hello engineer!
-1234566
+12345666
