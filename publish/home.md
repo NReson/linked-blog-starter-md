@@ -5,4 +5,4 @@ excerpt: hihi
 [[Добро пожаловать 1]]
 
 Hello engineer!
-123456667
+123456
