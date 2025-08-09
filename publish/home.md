@@ -3,5 +3,6 @@ title: База знаний Омега
 excerpt:
 ---
 [[Добро пожаловать 1]]
+
 Hello engineer!
 123
